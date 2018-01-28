@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 10 Aug 2017 17:14:54 at http://themeaone.com/hexa-preview/index.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themeaone.com/hexa-preview/index.html -O1 "C:\My Web Sites\MyTheme" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:17:50	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/fonts/glyphicons-halflings-regular.eot (from themeaone.com/hexa-preview/css/bootstrap.min.css)
+17:17:50	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/fonts/glyphicons-halflings-regular.eot? (from themeaone.com/hexa-preview/css/bootstrap.min.css)
+17:17:50	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/fonts/glyphicons-halflings-regular.woff2 (from themeaone.com/hexa-preview/css/bootstrap.min.css)
+17:17:50	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/fonts/glyphicons-halflings-regular.woff (from themeaone.com/hexa-preview/css/bootstrap.min.css)
+17:17:50	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/fonts/glyphicons-halflings-regular.ttf (from themeaone.com/hexa-preview/css/bootstrap.min.css)
+17:17:50	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/fonts/glyphicons-halflings-regular.svg (from themeaone.com/hexa-preview/css/bootstrap.min.css)
+17:17:50	Warning: 	File not parsed, looks like binary: themeaone.com/hexa-preview/fonts/fontawesome-webfont.woff2?v=4.7.0
+17:17:52	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/img/section-bg/2.jpg (from themeaone.com/hexa-preview/style.css)
+17:18:42	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/fonts/glyphicons-halflings-regular.eot (from themeaone.com/hexa-preview/hexa/css/bootstrap.min.css)
+17:18:42	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/fonts/glyphicons-halflings-regular.eot? (from themeaone.com/hexa-preview/hexa/css/bootstrap.min.css)
+17:18:42	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/fonts/glyphicons-halflings-regular.woff2 (from themeaone.com/hexa-preview/hexa/css/bootstrap.min.css)
+17:18:42	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/fonts/glyphicons-halflings-regular.woff (from themeaone.com/hexa-preview/hexa/css/bootstrap.min.css)
+17:18:42	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/fonts/glyphicons-halflings-regular.ttf (from themeaone.com/hexa-preview/hexa/css/bootstrap.min.css)
+17:18:42	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/fonts/glyphicons-halflings-regular.svg (from themeaone.com/hexa-preview/hexa/css/bootstrap.min.css)
+17:18:42	Warning: 	File not parsed, looks like binary: themeaone.com/hexa-preview/hexa/fonts/fontawesome-webfont.woff2?v=4.7.0
+17:18:44	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/css/font/ytp-regular.eot (from themeaone.com/hexa-preview/hexa/css/plugins.css)
+17:18:44	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/css/font/vimeo.eot (from themeaone.com/hexa-preview/hexa/css/plugins.css)
+17:18:44	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/css/font/vimeo.woff2 (from themeaone.com/hexa-preview/hexa/css/plugins.css)
+17:18:44	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/css/font/vimeo.woff (from themeaone.com/hexa-preview/hexa/css/plugins.css)
+17:18:44	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/css/images/raster.png (from themeaone.com/hexa-preview/hexa/css/plugins.css)
+17:18:44	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/css/images/raster@2x.png (from themeaone.com/hexa-preview/hexa/css/plugins.css)
+17:18:44	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/css/images/raster_dot.png (from themeaone.com/hexa-preview/hexa/css/plugins.css)
+17:18:44	Error: 	"Not Found" (404) at link themeaone.com/hexa-preview/hexa/css/images/raster_dot@2x.png (from themeaone.com/hexa-preview/hexa/css/plugins.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 50 seconds : 137 links scanned, 115 files written (6536209 bytes overall), 115 files updated [6198032 bytes received at 26947 bytes/sec], 505575 bytes transferred using HTTP compression in 39 files, ratio 16%, 2.6 requests per connection
+(21 errors, 2 warnings, 0 messages)

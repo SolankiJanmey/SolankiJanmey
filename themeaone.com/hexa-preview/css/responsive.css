@@ -1,0 +1,236 @@
+@media only screen and (min-width: 992px) and (max-width: 1169px) {
+.hero-content {
+  margin-top: 100px;
+}
+.hero-content h1 {
+  font-size: 50px;
+}
+.feature-content {
+  margin-top: 50px;
+}
+.feature-image img {
+  padding: 0;
+}
+.screenshot-slider .slick-list {
+  padding-bottom: 50px !important;
+  padding-top: 50px !important;
+}
+
+
+
+}
+/* Tablet desktop :768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.menu nav ul li {
+  margin-right: 20px;
+}
+.hero-content {
+  margin-top: 50px;
+}
+.hero-content h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.hero-content .hero-btn .btn {
+  margin-right: 10px;
+  padding: 8px 20px;
+}
+.hero-image img {
+  padding-left: 0;
+}
+.about-area {
+  padding-bottom: 70px;
+}
+.single-about {
+  margin-bottom: 30px;
+}
+.feature-content {
+  margin-top: 0;
+}
+.single-feature {
+  text-align: left;
+}
+.feature-left .single-feature i {
+  float: left;
+  margin-right: 30px;
+}
+.feature-image {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.screenshot-slider .slick-list {
+  padding-bottom: 40px !important;
+  padding-top: 40px !important;
+}
+.funfact-area {
+  padding-bottom: 70px;
+}
+.single-funfact {
+  margin-bottom: 30px;
+}
+.team-area {
+  padding-bottom: 70px;
+}
+.single-team {
+  margin-bottom: 30px;
+}
+.download-wrapper a {
+  padding: 8px 25px;
+}
+.pricing-btn .btn {
+  padding: 8px 25px;
+}
+
+
+}
+/* Large Mobile :480px. */
+@media only screen and (max-width: 767px) {
+.container{
+  width: 450px;
+}
+/* Header Mobile */
+.header {
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+.header .logo {
+  color: #282528;
+}
+.header .logo span {
+  color: #2196f3;
+}
+.header .menu nav ul li a {
+  color: #282528;
+}
+.header .menu nav ul li:hover a, .header .menu nav ul li.active a {
+  color: #2196f3;
+}
+.header .menu nav ul li a::before {
+  display: none;
+}
+/* Mobile Menu */
+.menu-toggle {
+  display: block;
+}
+.menu {
+  border: 0 none;
+  display: none;
+  float: none;
+  padding: 20px 0;
+  padding: 0;
+}
+.menu nav ul li {
+  float: none;
+  margin-right: 0;
+}
+/* Other Style */
+.hero-content {
+  margin-top: 0;
+}
+.hero-content h1 {
+  font-size: 40px;
+}
+.hero-content .hero-btn .btn {
+  margin-right: 10px;
+  padding: 8px 20px;
+}
+.hero-image img {
+  padding-left: 0;
+}
+.about-area {
+  padding-bottom: 70px;
+}
+.single-about {
+  margin-bottom: 30px;
+}
+.feature-content {
+  margin-top: 0;
+}
+.single-feature {
+  text-align: left;
+}
+.feature-left .single-feature i {
+  float: left;
+  margin-left: 0;
+  margin-right: 30px;
+}
+.feature-image {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.video-area {
+  padding: 100px 0;
+}
+.screenshot-slider .slick-list {
+  padding-bottom: 20px !important;
+  padding-top: 20px !important;
+}
+.single-screen.slick-active {
+  transform: scale(1);
+}
+.single-screen.slick-center {
+  transform: scale(1.15);
+}
+.funfact-area {
+  padding-bottom: 70px;
+}
+.single-funfact {
+  margin-bottom: 30px;
+}
+.team-area {
+  padding-bottom: 70px;
+}
+.single-team {
+  margin-bottom: 30px;
+}
+.download-wrapper a {
+  padding: 8px 25px;
+}
+.pricing-area {
+  padding-bottom: 70px;
+}
+.single-pricing {
+  margin-bottom: 30px;
+}
+.pricing-btn .btn {
+  padding: 8px 25px;
+}
+.subscribe-form input[type="email"] {
+  width: 250px;
+}
+
+
+
+}
+
+/* Small mobile :320px. */
+@media only screen and (max-width: 479px) {
+.container{
+  width: 300px;
+}
+.hero-content h1 {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+.hero-content p {
+  margin-bottom: 20px;
+}
+.hero-content .hero-btn a.btn:last-child {
+  margin-top: 10px;
+}
+.single-screen.slick-center {
+  transform: scale(1);
+}
+.single-funfact {
+  width: 100%;
+}
+.subscribe-form input[type="email"] {
+  margin: 0 0 10px;
+  text-align: center;
+  width: 100%;
+}
+.subscribe-form input[type="submit"] {
+  width: 100%;
+}
+
+}
